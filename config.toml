@@ -1,4 +1,4 @@
-baseURL = 'https://megalith.github.io/'
+baseURL = 'https://jeroen92.github.io/'
 languageCode = 'en-us'
 title = 'Megalith.rocks'
 theme = "pickles"
