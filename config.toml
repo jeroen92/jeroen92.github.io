@@ -1,0 +1,59 @@
+baseURL = 'https://megalith.rocks/'
+languageCode = 'en-us'
+title = 'Megalith.rocks'
+theme = "pickles"
+
+# enable get info from git commits, such as file modification time.
+# so we don't have to manually update it.
+enableGitInfo = true
+
+[params]
+  paginate = 10
+  # Hide the date on posts
+  # hideDate = true
+  # Hide last modified date on posts
+  # hideModifiedDate = true
+  # Hide the word count on posts and in the posts list
+  # hideWordCount = true
+  # Hide the reading time on posts and in the posts list
+  # hideReadingTime = true
+  custom_css = ["/css/custom.css"]
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  github = "jeroen92"
+  linkedin = "jeroenschutrup"
+#  author = "Jeroen Schutrup"
+  authorwebsite = "megalith.rocks"
+#  avatar = "/path/to/avatar"
+#  contact = "jeroen@megalith.rocks"
+#  bio = "Your short bio"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "A rock solid blog"
+  # Logo image. This is displayed ogp image.
+  logo = "/path/to/logo"
+  favicon = "/path/to/favicon"
+
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"
