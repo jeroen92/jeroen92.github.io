@@ -17,7 +17,6 @@ enableGitInfo = true
   hideWordCount = true
   # Hide the reading time on posts and in the posts list
   hideReadingTime = true
-  custom_css = ["/css/custom.css"]
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   github = "jeroen92"
@@ -30,8 +29,7 @@ enableGitInfo = true
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "A rock solid blog"
   # Logo image. This is displayed ogp image.
-  logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
+  favicon = "/images/favicon-32x32.png"
 
 #[related]
 #  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
