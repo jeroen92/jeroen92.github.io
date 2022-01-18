@@ -12,11 +12,11 @@ enableGitInfo = true
   # Hide the date on posts
   # hideDate = true
   # Hide last modified date on posts
-  # hideModifiedDate = true
+  hideModifiedDate = true
   # Hide the word count on posts and in the posts list
-  # hideWordCount = true
+  hideWordCount = true
   # Hide the reading time on posts and in the posts list
-  # hideReadingTime = true
+  hideReadingTime = true
   custom_css = ["/css/custom.css"]
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
@@ -33,27 +33,27 @@ enableGitInfo = true
   logo = "/path/to/logo"
   favicon = "/path/to/favicon"
 
-[related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 80
-
-  # To get stable "See also" sections we, by default, exclude newer related pages.
-  includeNewer = false
-
-  # Will lower case keywords in both queries and in the indexes.
-  toLower = false
-
-  [[related.indices]]
-  name = "keywords"
-  weight = 150
-  [[related.indices]]
-  name  = "author"
-  toLower = true
-  weight = 30
-  [[related.indices]]
-  name  = "tags"
-  weight = 100
-  [[related.indices]]
-  name  = "date"
-  weight = 10
-  pattern = "2017"
+#[related]
+#  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+#  threshold = 80
+#
+#  # To get stable "See also" sections we, by default, exclude newer related pages.
+#  includeNewer = false
+#
+#  # Will lower case keywords in both queries and in the indexes.
+#  toLower = false
+#
+#  [[related.indices]]
+#  name = "keywords"
+#  weight = 150
+#  [[related.indices]]
+#  name  = "author"
+#  toLower = true
+#  weight = 30
+#  [[related.indices]]
+#  name  = "tags"
+#  weight = 100
+#  [[related.indices]]
+#  name  = "date"
+#  weight = 10
+#  pattern = "2017"
