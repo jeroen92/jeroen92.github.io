@@ -1,7 +1,7 @@
 baseURL = 'https://megalith.rocks/'
 languageCode = 'en-us'
 title = 'Megalith.rocks'
-theme = "pickles"
+theme = [ "pickles", "image-gallery" ]
 
 # enable get info from git commits, such as file modification time.
 # so we don't have to manually update it.
