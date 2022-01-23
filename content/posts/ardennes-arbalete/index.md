@@ -1,11 +1,15 @@
 ---
 title: "Ardennes Arbalete"
 date: 2019-08-22
+tags:
+- bikepacking
+- bike touring
+- Surly ECR
 ---
 
 In July 2019 I hopped on the train to Maastricht to start my _first_ proper bikepacking trip on my ECR. The [Ardennes Arbalete](https://bikepacking.com/routes/ardennes-arbalete/) sparked my interest months prior. I just got my Surly ECR in May, and went for an overnighter in the Veluwe (NL) in June. Hence, I didn't quite know what to expect on a multi-day tour. Questions like; _How will the bike hold up? Will the powerbank have enough juice? Can I bring enough water and food? Will bringing two t-shirts be sufficient?_ The next couple of days would get very hot though, averaging abouve 40 degrees Celcius, so I'd find out soon enough whether I was able to bring enough water.
 
- Residing in the Netherlands, this route is great to get started with. Once in Maastricht, it's roughly a 70km ride to join this route. It's not a very nice ride though. There are lots of small towns, busy roads, industry and farms. I usually find the first day hard to get going and acclimatize, so this was a tough day for me. At the end of the day it was pouring down for hours. Luckily the camping site had quite a bunch of trees offering a bit of protection from the rain while I set up my tent.
+Residing in the Netherlands, this route is great to get started with. Once in Maastricht, it's roughly a 70km ride to join this route. It's not a very nice ride though. There are lots of small towns, busy roads, industry and farms. I usually find the first day hard to get going and acclimatize, so this was a tough day for me. At the end of the day it was pouring down for hours. Luckily the camping site had quite a bunch of trees offering a bit of protection from the rain while I set up my tent.
 
 Starting in Membach, this route instantly becomes amazing. Immediately entering the forest, it passes a super nice lake on its way to entering _les Hautes Fagnes_ national park. After 10km in, the route started getting overgrown, with fallen trees and ferns and bushes over two meters high crossing the route it became very hard to continue cycling. And when cycling becomes impossible, you start pushing. This only lasted for a couple of k's though. The route was super pretty overall, covering lots of gravel and logging roads after exiting the High Fens.
 
