@@ -31,6 +31,9 @@ enableGitInfo = true
   # Logo image. This is displayed ogp image.
   favicon = "/images/favicon-32x32.png"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 #[related]
 #  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
 #  threshold = 80
