@@ -7,7 +7,7 @@ tags:
 - Surly ECR
 ---
 
-On Monday the 11th of November 2019 I set out to Ijmuiden (NL) to hop on the ferry to Newcastle. From there I'd catch the intercity train to Sheffield where I'd change to a regional train that'd take me to Heathersage. A couple degrees Celsius above zero, it was apparent fall had set in on the English midlands.
+On Monday the 11th of November 2019 I set out to Ijmuiden (NL) to hop on the ferry to Newcastle and start my first ever bicycle tour in England, [the Peak District](https://bikepacking.com/routes/dark-white-peak-peek/). From there I'd catch the intercity train to Sheffield where I'd change to a regional train that'd take me to Heathersage. A couple degrees Celsius above zero, it was apparent fall had set in on the English midlands.
 
 Starting on my bike tour Wednesday morning, I had about 70 kilometers of mountainbike trails ahead of me. Despite having prepared a piece of paper on which I'd written down a bunch of ho(s)tels available along the route, I also brought my tent in case of emergencies. With the harsh cold, and not having camped in the wild before I hoped I wouldn't need it though.
 
