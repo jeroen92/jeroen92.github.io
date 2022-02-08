@@ -1,7 +1,6 @@
 ---
 title: "Cycling from The Netherlands to Switzerland"
 date: 2022-02-06T20:07:55+01:00
-draft: true
 date: 2021-09-28
 tags:
 - bikepacking
@@ -9,6 +8,28 @@ tags:
 - Surly Straggler
 ---
 
+In the summer of 2021 I took a short break from work to visit my family in Switzerland. Going over the available options for transportation, I unhesitatingly decided to go there on my Surly, steel is real, Straggler. I created the route using [cycle.travel](https://cycle.travel/map), it's a truly amazing tool!
+
 <iframe src="https://www.komoot.com/tour/479943503/embed?share_token=adBJUKFrnUYtXsu4YRP3Qnuwi5y4Y4KWWsGefm9rHi2OU51wvi&profile=1" width="100%" height="680" frameborder="0" scrolling="no"></iframe>
+
+On some earlier tours I did by bike crossing the border between NL and Germany, I learned finding a campsite can be a bit tricky in these areas. In general Germany has plenty of them. However; a good portion of them are mainly setup for campers/RVs. Even though I left home around 14:00 in the afternoon, I still managed to drive a good 100k and found a camping ground in Lingen. The second day I drove a large portion of the morning along the Ems river down south. That aside, I was quite surprised by the sheer amount of forests in this part of Germany, very nice! The route took me around Munster after which I had dinner at Ahlen and drove another 30k in the evening to rest for the night at a campground along the Lippe river.
+
+Day three was when things started to get hilly. Approaching the Ruhr valley on my right, I headed straight south entering Sauerland. There were some super nice sections with some amazing, smooth bike paths. Nevertheless I found I was always in the proximity of either a highway or a busy'ish town, probably because this is a bit of a touristy area? Anyway, note to self: next time do some more detailing during route planning. The day ended with a giant thunderstorm, hail and a couple of hours of heavy rainfall. Camping near a lake gave the thunderstorm an extra _vibe_ :) The camping itself sucked though; crazy expensive (~25 euro a night), and had no dedicated spots for tents. Setting up a tent on rocks & gravel is a bit of a pain. But this was one of these typical camper/RV campsites.
+
+Day four was great, again. And hot, again (so far every day averaged around 30C around noon). Some nice clims, some nice descends. And, passed some nice market stands with fresh fruit. That's the great thing about cycling IMO. Not having to think too far ahead, being limited in what you can take with you and having no plans set in stone for the day aside from getting to your destination. I ended this day with a bit of rain and a nice hour long walk to town (and an hour back) to get some pizza (which was definitely worth the effort :-) ).
+
+For day five I'd drive to Mainz. I took some wrong turns, descending off a steep hill which I'd then had to ascend back up again. Went a little off route once approaching Mainz in my quest for finding a campsite and not having to navigate through the city center. This was the best campsite during my entire trip though (Inselrhein). Sanitations and stuff were heavily outdated, but the spot was great (next to the Rhine) and so were both the food and the beers. There was a nice outdoor tent with some live relaxed music and a great vibe overall. Would recommend 10/10. Also met some nice people at this campsite (two Dutchies who were on their way to cycle around Switzerland, following the Rhine to Basel, and two Germans going the other way to Rotterdam).
+
+At day six I followed the Rhine until Speyer (with the nice, stately Cathedral). I decided to deviate from my route (again) as the area around Heidelberg seemed quite urbanized and I though it would be difficult finding a camping spot in that area. Instead I followed the Rhine down south, ez mode. Bit boring though, it reminded me of the times I drove over the Lek dyke in NL. The part until Mannheim is nice and easy to ride though, very flat. Getting through Mannheim and Ludwigshafen is a bit of a pain though. These are, at least for my (Dutch) standards, big cities with huge suburbs. When approaching Speyer however things calm down, and found a nice campsite roughly 10K before Speyer. Next time when traveling from Mainz, I'd just head down south directly though (staying west of the Rhine and head to the Vosges), and stay off the Rhine route thereby avoiding Mannheim.
+
+Day seven; entering Schwarzwald. It took the first 60k to gradually climb a shocking 100 meters. However, when nearing Pforzheim the climbing takes off. Not much I remembered about this day though, it was nice :)
+
+Day eight I did a nice 133k and 1720m of elevation. I figured out a bit of planning for the next couple of days to see when I'd arrive in Switzerland. I was a bit ahead of schedule, so if I'd power through to get in Austria a day early, I'd grant myself a day of rest. Conveniently, the weather forecast showed a lot of rain for the next couple of days; a bit of extra motivation to get as much of the route done as I could that day. Regardless, this day had some great views and amazing curvy roads flowing through the hills. When exiting Schomberg I got talking with a local who cycled along with me for some time after which I finished the ride to Tuttlingen. First night of this trip I took a hotel, luxury and comfort, hooray :)
+
+The day after day eight (: I'd do another 120k. The weather really turned last night and the temperature dropped at least 10 degrees. It started with an a-ma-zing 15k of going gradually downhill through forests on very quiet excellently paved roads which were still wet from the rainfall. Arriving at Konstanz was quite a milestone for this trip. The end was nearing. Cycling along the pristine Swiss coast at the Bodensee I already started approaching Austria. Visiting three countries in a day, check. Cycling the route along the coast is a bit time consuming as I had to cross the train tracks at least 15 times. And with the trains driving on and off that means a lot of waiting :-)
+
+I took a nice hotel in Lustenau, went on a daytrip to Lindau, Germany to get train tickets to get back home. I recently bought a house, so wanted to spend some days there as well. In hindsight, I'd have preferred to cycle back via Strassbourg and the Ardennes. My original plan for this trip was to cycle to Switzerland via that route, so I already had a route all laid out.
+
+After a day of well-deserved rest, I had to cycle the last 60k to Buchs for which I took my sweet time. The weather was unexpectedly nice. Visited Feldkirch where I lived for half a year some time ago, and then went on my way to the finish. TLDR: very nice to have been guest in Germany for some days, impressed with the nature, very nice villages/small towns and the amount of nice cycling paths really seems to be taking off. Way to go, Germany!
 
 {{< gallery match="images/*.JPEG" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" loadJQuery="true">}}
